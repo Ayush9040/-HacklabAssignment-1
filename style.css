@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    text-align:center;
+    font-size: 25px;
+}
+
+.container{
+    width: 100%;
+    height: 300px;
+}
+
+.btn{
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    padding: 66px;
+    /* background-color: black; */
+    /* text-align: left; */
+    font-size: 18px;
+    color: white;
+}
+
+.black{
+    background: black;
+}
+
+/* #btnR{
+    color: red;
+} */
